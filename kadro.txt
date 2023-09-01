@@ -1,0 +1,25 @@
+Uğurcan Çakır,Kaleci,Trabzonspor,27
+Mert Günok,Kaleci,Beşiktaş,34
+Muhammed Sengezer,Kaleci,Başakşehir,26
+Merih Demiral,Stoper,Al-Ahli,25
+Ozan Kabak,Stoper,Hoffenheim,25
+Abdülkerim Bardakçı,Stoper,Galatasaray,28
+Cenk Özkaçar,Stoper,Valencia,22
+Samet Akaydın,Stoper,Fenerbahçe,29
+Ferdi Kadıoğlu,Sol Bek,Fenerbahçe,23
+Eren Elmalı,Sol Bek,Trabzonspor,23
+Zeki Çelik,Sağ Bek,Roma,26
+Salih Özcan,Ön Libero,Dortmund,25
+İsmail Yüksek,Ön Libero,Fenerbahçe,24
+Hakan Çalhanoğlu, Merkez Orta Saha, Inter,29
+Orkun Kökçü,Merkez Orta Saha,Benfica,22
+Salih Uçan,Merkez Orta Saha,Beşiktaş,29
+Arda Güler,On Numara,Real Madrid,18
+Kerem Aktürkoğlu,Sol Kanat,Galatasaray,24
+Cengiz Ünder,Sağ Kanat,Fenerbahçe,26
+İrfan Can Kahveci,Sağ Kanat,Fenerbahçe,28
+Barış Yılmaz,Sağ Kanat,Galatasaray,23
+Kenan Karaman,Sağ Kanat,Schalke,29
+Umut Bozok,Santrafor,Trabzonspor,26
+Umut Nayir,Santrafor,Fenerbahçe,30
+
